@@ -5,5 +5,5 @@ Kali Linux
 Linux Mint
 Debian
 Windows 
-Para usar en sistemas widnows descargue perl y ejecute en el CMD
+Para usar en sistemas windows descargue perl y ejecute en el CMD
 Descargar perl para windows: http://strawberryperl.com
